@@ -16,6 +16,11 @@
   <author href="http://rpwalsh.com" email="support@rpwalsh.com">
       Ryan Walsh
   </author>
+
+    <splash src="splash.png" />
+
+    <icon src="icon.png" />
+
     <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
